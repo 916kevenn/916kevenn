@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevenn Chiguti</h1>
-<h3 align="center">A student from UniCesumar(Software Enginner)</h3>
+<h3 align="center">A student from UniCesumar(Software Engineer)</h3>
 
 - 🌱 I’m currently learning **Python**
 
