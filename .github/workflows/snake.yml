@@ -10,10 +10,12 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    
+    # Explicitly grant write access to repository contents inside the code
+    permissions:
+      contents: write
 
     steps:
       - name: generate snake animation
@@ -24,7 +26,6 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
         env:
-          # A github token is required to fetch the contribution graph from the API
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: publish files
@@ -33,5 +34,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          # This token allows the action to push the generated files to your repository
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
