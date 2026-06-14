@@ -1,5 +1,5 @@
-<h1 align="center">🇺🇸 Hi 👋, I'm Kevenn Chiguti</h1>
-<h1 align="center">🇧🇷 Olá 👋, eu sou Kevenn Chiguti</h1>
+<h1 align="center">🇺🇸 Hi , I'm Kevenn Chiguti</h1>
+<h1 align="center">🇧🇷 Olá , Eu sou Kevenn Chiguti</h1>
 
 <h3 align="center">
   A student from UniCesumar - Software Engineering
