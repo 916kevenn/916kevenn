@@ -19,13 +19,19 @@ jobs:
       - name: generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ 916kevenn }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+        env:
+          # A github token is required to fetch the contribution graph from the API
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: publish files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+        env:
+          # This token allows the action to push the generated files to your repository
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
