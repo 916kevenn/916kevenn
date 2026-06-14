@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=916kevenn&" alt="916kevenn" /></p>
 
-![snake animation](https://github.com/<916kevenn>/<916kevenn>/blob/output/github-contribution-grid-snake2.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/916kevenn/916kevenn/output/github-contribution-grid-snake2.svg)
 
