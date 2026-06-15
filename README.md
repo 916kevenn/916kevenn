@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me / Conecte-se comigo:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/kevenn chiguti" target="blank">
+<a href="https://www.linkedin.com/in/kevenn-chiguti-9434b53b5/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevenn chiguti" height="30" width="40" />
 </a>
 </p>
