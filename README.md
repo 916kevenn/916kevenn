@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="file_000000003a5c720ebe1f968d7d011499.png" alt="Kevenn Chiguti Banner" width="100%">
+</p>
+
 <h1 align="center">🇺🇸 Hi , I'm Kevenn Chiguti</h1>
 <h1 align="center">🇧🇷 Olá , Eu sou Kevenn Chiguti</h1>
 
