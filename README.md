@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file_000000003a5c720ebe1f968d7d011499.png">
+  <img src="keyboard-hanamaru-kindergarten.gif">
 </p>
 
 <h1 align="center">🇺🇸 Hi , I'm Kevenn Chiguti</h1>
