@@ -15,8 +15,8 @@
 
 ---
 
-- 🌱 I’m currently learning **C#**  
-- 🌱 Atualmente estou aprendendo **C#**
+- 🌱 I’m currently learning **C**  
+- 🌱 Atualmente estou aprendendo **C**
 
 - 📫 How to reach me: **kevennks23@gmail.com**  
 - 📫 Como entrar em contato comigo: **kevennks23@gmail.com**
